@@ -3,6 +3,8 @@ PythonTwitterBot
 
 A simple template for a twitter bot coded in python using Twitter Tools
 
+Full credit for the API goes to [Mike Verdone](https://github.com/sixohsix/twitter)
+
 This template is intended to be used as a starting point for any twitter bot, it includes all of the essential commands such as searching and replying to tweets.
 
 How To Use
